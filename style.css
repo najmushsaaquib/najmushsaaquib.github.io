@@ -311,11 +311,12 @@ section .title::after {
 
 /* skills section styling */
 .skills-images img {
-  height: 150px;
-  width: 150px;
-  /* object-fit: cover; */
+  height: 160px;
+  width: 170px;
   border-radius: 5%;
-  /* border: 5px solid crimson; */
+  padding: 1.1em;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
   transition: all 0.3s ease;
 }
 .skills .title::after {
