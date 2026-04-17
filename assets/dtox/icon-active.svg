@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <clipPath id="active-clip">
+    <path d="M36,26 L36,102 C36,104 38,105 41,103 L102,69 C105,67 105,61 102,59 L41,25 C38,23 36,24 36,26 Z"/>
+  </clipPath>
+  <g clip-path="url(#active-clip)">
+    <!-- Darker red body — dominant -->
+    <rect x="0" y="0" width="128" height="128" fill="#e53e3e"/>
+    <!-- Blue tip — smaller circle, Matrix blue -->
+    <circle cx="102" cy="64" r="26" fill="#60a5fa"/>
+  </g>
+</svg>

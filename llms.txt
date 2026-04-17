@@ -1,0 +1,29 @@
+# Najmush Saaquib
+
+> Senior Backend Engineer based in Bangalore, India. Specialising in distributed systems, microservices, event-driven architecture, and scalable APIs.
+
+## About
+
+Najmush Saaquib is a senior Java/Node.js engineer who builds high-throughput backend systems. He writes about engineering craft, system design, and tools he builds along the way.
+
+## Site Structure
+
+- Homepage: https://najmushsaaquib.com — portfolio with experience, projects, skills, and contact
+- Blog: https://najmushsaaquib.com/blog — technical writing on backend engineering and software craft
+- Projects: https://najmushsaaquib.com/projects — side projects and open-source work
+- BookShelf: https://najmushsaaquib.com/bookshelf — books currently reading and recommended
+
+## Blog Posts
+
+- [I Built a Chrome Extension in a Weekend. Here's Exactly How You Can Too.](https://najmushsaaquib.com/blog/how-to-build-a-chrome-extension)
+- [How to Publish a Chrome Extension to the Chrome Web Store](https://najmushsaaquib.com/blog/how-to-publish-chrome-extension)
+
+## Feeds & Discovery
+
+- RSS feed: https://najmushsaaquib.com/rss.xml
+- Sitemap: https://najmushsaaquib.com/sitemap.xml
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/najmushsaaquib
+- GitHub: https://github.com/najmushsaaquib

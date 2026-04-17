@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Najmush Saaquib — Blog</title>
+    <link>https://najmushsaaquib.com/blog</link>
+    <description>Writing on distributed systems, backend engineering, and software craft.</description>
+    <language>en-us</language>
+    <atom:link href="https://najmushsaaquib.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 17 Apr 2026 10:52:10 GMT</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Your Extension Works Locally. Now Ship It to 3 Billion Chrome Users.]]></title>
+      <link>https://najmushsaaquib.com/blog/how-to-publish-chrome-extension</link>
+      <guid isPermaLink="true">https://najmushsaaquib.com/blog/how-to-publish-chrome-extension</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The complete, step-by-step guide to publishing your browser extension on the Chrome Web Store — from developer registration to your first real users.]]></description>
+      <category>chrome-extension</category><category>publishing</category><category>chrome-web-store</category><category>tutorial</category>
+    </item>
+    <item>
+      <title><![CDATA[I Built a Chrome Extension in a Weekend. Here's Exactly How You Can Too.]]></title>
+      <link>https://najmushsaaquib.com/blog/how-to-build-a-chrome-extension</link>
+      <guid isPermaLink="true">https://najmushsaaquib.com/blog/how-to-build-a-chrome-extension</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A practical, no-fluff guide to building your first browser extension — from zero to a working product you can actually use.]]></description>
+      <category>chrome-extension</category><category>javascript</category><category>tutorial</category><category>web-development</category>
+    </item>
+  </channel>
+</rss>
